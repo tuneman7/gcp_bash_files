@@ -1,6 +1,6 @@
 #!/bin/bash
 
-directory="/Volumes/Internal_SSD/bash_files/"
+directory="/gcp_bash_files/"
 
 echo $"in bash dir"
 echo $"$directory"
