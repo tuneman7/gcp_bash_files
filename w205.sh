@@ -1,2 +1,2 @@
-cd /usr/home/jupyter/w205/
+cd /home/jupyter/w205/
 
